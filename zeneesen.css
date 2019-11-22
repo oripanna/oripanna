@@ -1,0 +1,49 @@
+body{
+
+background-color: rgb(103,158,136);
+font-family: 'Amatic SC', cursive;
+}
+h1{
+	color: white;
+	text-align: center;
+	font-size: 60px;
+
+}
+h1 span{
+	font-size: 30px;
+	color: rgb(83,102,74);
+
+}
+h2{
+	text-align: center;
+	background-color: rgb(83,102,74);
+	size: 40px 100px;
+}
+h3{
+	font-size: 45px;
+	font: white;
+
+}
+h3 span{
+	color: white;
+}
+.főkép{
+	margin-left: auto;
+	margin-right: auto;
+	width: 280px;
+	float: left;
+	border-radius: 100%;
+	margin-right: 20px;
+	}
+	p{
+	color: white;
+	font-size: 25px;
+	
+}
+img{
+	width: 500px;
+	border-radius: 5%;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-bottom: 40px;
+}
